@@ -1,0 +1,73 @@
+Cobertura	C1	C2	C3	C4
+Arbustal	133	72	69	138
+Arbustal	141	95	51	139
+Arbustal	171	86	87	169
+Arbustal	161	64	84	148
+Arbustal	143	68	92	166
+Arbustal	136	95	64	158
+Arbustal	167	95	60	138
+Arbustal	147	66	95	132
+Arbustal	156	67	99	145
+Arbustal	126	89	76	147
+Arbustal	151	63	73	149
+Arbustal	150	94	81	136
+Arbustal	163	77	91	135
+Arbustal	143	82	78	126
+Arbustal	144	70	72	135
+Arbustal	164	72	81	174
+Arbustal	167	100	81	145
+Arbustal	151	84	94	155
+Arbustal	152	68	73	157
+Arbustal	140	84	87	145
+Pastizal	183	101	106	144
+Pastizal	174	87	109	169
+Pastizal	185	111	109	145
+Pastizal	186	103	120	128
+Pastizal	157	97	65	158
+Pastizal	181	93	106	154
+Pastizal	180	121	109	131
+Pastizal	172	72	90	137
+Pastizal	185	92	82	137
+Pastizal	178	125	113	141
+Pastizal	170	126	89	152
+Pastizal	187	90	108	165
+Pastizal	182	92	99	157
+Pastizal	164	114	93	157
+Pastizal	139	115	76	141
+Pastizal	173	97	119	133
+Pastizal	187	115	70	155
+Pastizal	190	98	80	165
+Pastizal	200	98	87	161
+Pastizal	164	110	113	165
+Pastizal	177	72	128	161
+Pastizal	171	102	85	163
+Salina	79	42	110	82
+Salina	97	41	137	95
+Salina	76	44	151	81
+Salina	81	21	158	115
+Salina	86	47	139	98
+Salina	63	29	139	101
+Salina	91	50	141	98
+Salina	77	39	158	90
+Salina	74	62	136	92
+Salina	76	40	164	120
+Salina	82	71	148	97
+Salina	59	33	148	80
+Salina	90	39	136	90
+Salina	73	45	160	108
+Salina	64	37	130	83
+Salina	77	33	150	86
+Suelo desnudo	74	63	30	41
+Suelo desnudo	74	28	20	45
+Suelo desnudo	80	41	16	43
+Suelo desnudo	90	62	27	41
+Suelo desnudo	96	51	43	48
+Suelo desnudo	86	39	18	57
+Suelo desnudo	63	23	11	47
+Suelo desnudo	87	52	11	28
+Suelo desnudo	86	55	14	58
+Suelo desnudo	86	33	31	45
+Suelo desnudo	105	67	2	43
+Suelo desnudo	82	47	29	47
+Suelo desnudo	75	36	17	26
+Suelo desnudo	85	68	11	51
